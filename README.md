@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/lililemon/lililemon/blob/output/github-contribution-grid-snake.svg）
+![](https://raw.githubusercontent.com/lililemon/lililemon/output/github-contribution-grid-snake.svg)
 <!--
 **lililemon/lililemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
